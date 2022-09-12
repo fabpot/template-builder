@@ -1,7 +1,0 @@
-# Ignore mounts
-config
-logs
-data
-dist/files
-plugins
-client/plugins

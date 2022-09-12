@@ -1,7 +1,0 @@
-
-# Ignore mounts
-web/files
-tmp
-private
-config/active
-config/staging
