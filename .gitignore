@@ -1,6 +1,0 @@
-/templates/*/build
-.doit.db
-*.pyc
-*.DS_Store
-.idea/*
-.doit.db.db
